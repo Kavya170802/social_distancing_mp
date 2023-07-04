@@ -1,1 +1,1 @@
-# social_distancing_mp
+# socialdistancing_miniprojects
